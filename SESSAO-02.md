@@ -31,28 +31,22 @@ Caso tenhas conflitos...
 Podes resolvê-los...
 1. Abrindo o teu editor de texto, e podes escolher qual o estado final do teu repositório, e adicionar as modificações como costumas fazê-lo:
 2. Adiciona as tuas modificacoes com `git add .`
-3. Faz commit com `git commit -m <msg-de-resolucao>
+3. Faz commit com `git commit -m <msg-de-resolucao>`
 4. Faz push com `git push`
 5. Verifica na tua PR que já não tens conflitos no código
 
 
-
-
-
 Nota: Há várias formas como podes gerir os branches usando git, estes passos é apenas uma forma :)
-
-
-
 
 
 ### Criação de Pull Request
 
 1. Fork do projeto para o qual queres contribuir
 2. Clona o teu fork com `git clone <link-do-teu-fork>` no teu ambiente local
-3. Cria o branch com `git checkout -b <nome-do-branch>
+3. Cria o branch com `git checkout -b <nome-do-branch>`
 4. Faz as alterações...
 5. Adiciona as tuas alterações com `git add .`
-6. Cria um commit com `git commit -m "<msg>"
+6. Cria um commit com `git commit -m "<msg>"`
 7. Faz push com `git push`
 8. No teu repositório Fork, ou o original procura a caixinha de sugestão de criação de PR, e clica no botão verde
 9. Verifica que o base branch é o branch princinpal (ex. `main`) e o repositório base, é o original (em vez do teu Fork)
