@@ -1,6 +1,6 @@
 # Colaboração com git
 
-Nesta sessão exploramos como usr git com GitHub para contribuir para projetos.
+Nesta sessão exploramos como usar git com GitHub para contribuir para projetos.
 
 Falamos de como criar Pull Requests e como resolver _merge conflicts_.
 
